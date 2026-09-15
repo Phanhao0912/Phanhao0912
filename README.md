@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Hao 👋
 
-<!--
-**Phanhao0912/Phanhao0912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Robotics & AI Student
 
-Here are some ideas to get you started:
+I am interested in robotics, embedded systems, computer vision,
+AI-based control and intelligent automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Research Interests
+
+- Robotics & Autonomous Systems
+- Artificial Intelligence
+- Computer Vision
+- Embedded Systems
+- IoT
+- Intelligent Control
+
+## 🛠 Tech Stack
+
+### Languages
+Python • C • C++ • MATLAB
+
+### Embedded
+ESP32 • STM32 • Arduino
+
+### Robotics
+ROS 2 • Gazebo
+
+### AI / Computer Vision
+PyTorch • OpenCV
+
+### Tools
+Git • PlatformIO • MATLAB • EasyEDA • Inventor
+
+## 🚀 Featured Projects
+
+- Autonomous Mobile Robot
+- Facial Landmark Localization
+- Smart Agriculture IoT System
+- Hydroponic Monitoring & Control System
+- AI Shrimp Classification System
+
+## 📫 Contact
+
+Email: phhaoc3tv@gmail.com
